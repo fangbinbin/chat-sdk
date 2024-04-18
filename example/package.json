@@ -4,7 +4,7 @@
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
-    "@livechat/accounts-sdk": "^2.0.3",
+    "@livechat/accounts-sdk": "github:fangbinbin/accounts-sdk",
     "@livechat/chat-sdk": "^0.2.0",
     "@livechat/design-system": "^0.13.1",
     "@livechat/design-system-colors": "^2.0.0",
